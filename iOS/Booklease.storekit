@@ -1,0 +1,29 @@
+{
+  "identifier": "BookleaseStoreKit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "11000000000001",
+      "localizations": [
+        {
+          "description": "Rental cost totals and buyback reminders",
+          "displayName": "Pro Unlock",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.booklease.pro_unlock",
+      "referenceName": "Pro Unlock",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
